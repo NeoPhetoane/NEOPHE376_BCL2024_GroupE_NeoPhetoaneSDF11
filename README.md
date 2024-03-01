@@ -29,3 +29,7 @@ The main structures used in the making of the landing page is html, CSS, Tailwin
 **Conclusion**
 
 Building a landing page for Cache bank was an eye opening, stressful and exciting experience. It brought all of the knowledge acquired so far into practice and enabled clearer understanding and the bugs were frustrating learning curbs. Overall the project showed that practice improves understanding.
+
+**Loom Video Link:** https://www.loom.com/share/35e185046a2d4bbca4c95e0e542c5322?sid=2ebb3b59-dc7c-4c78-92cc-518edf4f3edd
+
+**Presentation Link:** https://docs.google.com/presentation/d/1E0ckjlrJIj-Y1KKjhGirqUEqENF4IM5Wczxw2q3ZkQs/edit?usp=sharing
